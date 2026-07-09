@@ -23,7 +23,7 @@ CodeWith_Irfan Blog is a modern programming platform built with React.js, Bootst
 
 ## 📸 Project Preview
 
-<img src="src/assets/blog-preview.png" alt="CodeWith_Irfan Blog" width="100%">
+<img src="src/assets/blog-preview.png" alt="blog_project" width="100%">
 
 ## 👨‍💻 Author
 
