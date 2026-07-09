@@ -21,9 +21,9 @@ CodeWith_Irfan Blog is a modern programming platform built with React.js, Bootst
 - HTML5
 - CSS3
 
-## 📸 Preview
+## 📸 Project Preview
 
-(Add project screenshots here later)
+![CodeWith_Irfan Blog](./screenshots/blog-preview.png)
 
 ## 👨‍💻 Author
 
