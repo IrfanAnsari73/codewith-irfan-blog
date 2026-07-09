@@ -1,25 +1,25 @@
-# 🚀 CodeWith_Irfan
+# 🚀 CodeWith_Irfan Blog
 
-A modern programming blog built using **React.js**, **Bootstrap 5**, and **React Router DOM**.
+CodeWith_Irfan Blog is a modern programming platform built with React.js, Bootstrap 5, and React Router DOM to share programming tutorials, web development concepts, and real-world projects.
 
 ## ✨ Features
 
-- Responsive Navbar
+- Responsive Navigation Bar
 - Professional Footer
-- React Components
-- React Router DOM
-- Bootstrap 5
-- SPA (Single Page Application)
-
-## 🛠️ Technologies Used
+- React Router DOM Navigation
+- Reusable React Components
+- Bootstrap 5 UI
+- Single Page Application (SPA)
+  
+## 🛠️ Tech Stack
 
 - React.js
 - Vite
 - Bootstrap 5
 - React Router DOM
-- JavaScript
-- CSS3
+- JavaScript (ES6+)
 - HTML5
+- CSS3
 
 ## 📸 Preview
 
